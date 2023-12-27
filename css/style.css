@@ -44,32 +44,6 @@ ul.navbar-nav.ms-auto {
 .banner p.banner-para.text-center {
     font-size: 2rem;
 }
-/* .numbar-add-to-cart{
-    position: absolute;
-    padding: 3px;
-    border-radius: 50%;
-    background-color: white;
-    right: 10.5%;
-    font-size: 0.9rem;
-} */
-/* navbar end */
-/* .banner{
-    background-image: url('../images/header.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    margin: 1rem 3rem; 
-    position: relative;
-} */
-/* .main-heading{
-    font-size: 5.5rem;
-    font-family: 'Playfair Display', serif;
-}
-.banner-para{
-    font-size: 1.5rem;
-    font-family: 'Playfair Display', serif;
-} */
 .collection {
     margin-bottom: 5rem;
     padding-left: 15px;
@@ -712,7 +686,7 @@ ul.navbar-nav.ms-auto {
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
-        height: 58vh;
+        height: 73vh;
     }
     .passion .passion-heading {
         font-size: 3rem;
@@ -763,7 +737,7 @@ ul.navbar-nav.ms-auto {
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
-        height: 28vh;
+        height: 58vh;
     }
     .passion .passion-heading {
         font-size: 2.5rem;
